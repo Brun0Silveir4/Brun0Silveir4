@@ -6,9 +6,7 @@ Em 2019, resolvi seguir esse interesse mais a fundo e entrei na Etec da Zona Les
 
 Durante o técnico, tive a oportunidade de participar do programa P-TECH em parceria com a IBM, o que ampliou muito meu aprendizado. Em 2023, fui aprovado para um estágio na própria IBM, onde passei a atuar como desenvolvedor full stack, trabalhando em diversos projetos nas áreas de front-end e back-end.
 
-
-
-<hr/>
+<br/>
 
 ## 🚀 Ferramentas e habilidades
 
@@ -28,7 +26,7 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
 </p>
 
-<hr/>
+<br/>
 
 
   ## 📊 Minhas estatísticas
@@ -37,7 +35,7 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Silveir4&layout=compact&theme=radical" width="340"/>
 
 
-<hr/>
+<br/>
 
 ## 📫 Contato
 
