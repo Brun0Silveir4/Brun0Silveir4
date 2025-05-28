@@ -31,7 +31,7 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
 <hr/>
 
 
-  ## 📊 Minhas estatísticas no GitHub
+  ## 📊 Minhas estatísticas
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brun0Silveir4&show_icons=true&theme=radical" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Silveir4&layout=compact&theme=radical" width="340"/>
