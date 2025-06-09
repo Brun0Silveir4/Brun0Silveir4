@@ -8,18 +8,19 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
 
 <br/>
 
-## 🚀 Ferramentas e habilidades
+## 🚀 Principais Ferramentas e habilidades
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass/Scss"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" alt="Firebase"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width="40" alt="Axios"/>
@@ -28,12 +29,10 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
 
 <br/>
 
-
-  ## 📊 Minhas estatísticas
+## 📊 Minhas estatísticas
 
 <img src="https://github-readme-stats.vercel.app/api?username=Brun0Silveir4&show_icons=true&theme=radical" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Silveir4&layout=compact&theme=radical" width="340"/>
-
 
 <br/>
 
@@ -41,5 +40,5 @@ Durante o técnico, tive a oportunidade de participar do programa P-TECH em parc
 
 Quer conversar sobre tecnologia, projetos ou trocar uma ideia? É só me chamar:
 
-- 📧 Email: bruno.silveira.dionisio@gmail.com  
+- 📧 Email: bruno.silveira.dionisio@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-silveira-dionisio/)
