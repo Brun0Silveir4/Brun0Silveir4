@@ -1,44 +1,43 @@
-# 🧑‍💻 Desenvolvedor Full Stack Web
+<div align="center">
 
-Oi! Me chamo Bruno, tenho 20 anos e sou formado no curso _Análise e Desenvolvimento de Sistemas_ pela Fatec da Zona Leste. Minha paixão por tecnologia começou ainda na infância, quando tive meus primeiros contatos com videogames e computadores.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-Em 2019, resolvi seguir esse interesse mais a fundo e entrei na Etec da Zona Leste no início de 2020, dando início ao curso técnico. Desde então, meu envolvimento com a área só cresceu.
+# Hey, I'm Bruno Silveira Dionisio!
 
-Durante o técnico, tive a oportunidade de participar do programa P-TECH em parceria com a IBM, o que ampliou muito meu aprendizado. Em 2023, fui aprovado para um estágio na própria IBM, onde passei a atuar como desenvolvedor full stack, trabalhando em diversos projetos nas áreas de front-end e back-end.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack%20Developer;Based%20in%20S%C3%A3o%20Paulo%2C%20SP)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-## 🚀 Principais Ferramentas e habilidades
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass/Scss"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" alt="Firebase"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" alt="Windows" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" width="40" alt="Axios"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
-</p>
+Passionate Software Engineer with a solid track record of delivering high-performance web applications and integration architectures. Most notably, I spearheaded the technical delivery of 14 B2B MVPs at IBM, bridging the gap between enterprise backend systems and production-ready GenAI/WatsonX solutions.
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,ai,postgres,mongodb,mysql,prisma,firebase,fastapi,laravel,docker,linux,html)](https://skillicons.dev)
 
 <br/>
 
-## 📊 Minhas estatísticas
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brun0Silveir4&show_icons=true&theme=radical" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Silveir4&layout=compact&theme=radical" width="340"/>
+<div>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Brun0Silveir4&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Brun0Silveir4&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brun0Silveir4&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
 
 <br/>
 
-## 📫 Contato
+## 🔗 Connect with me
 
-Quer conversar sobre tecnologia, projetos ou trocar uma ideia? É só me chamar:
+<div>
 
-- 📧 Email: bruno.silveira.dionisio@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-silveira-dionisio/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-amber-one-45.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.silveira.dionisio@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-silveira-dionisio) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brun0Silveir4)
+
+</div>
