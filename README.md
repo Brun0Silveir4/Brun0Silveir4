@@ -14,7 +14,7 @@ Passionate Software Engineer with a solid track record of delivering high-perfor
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,ai,postgres,mongodb,mysql,prisma,firebase,fastapi,laravel,docker,linux,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,nestjs,java,ai,postgres,mongodb,mysql,prisma,firebase,fastapi,laravel,docker,linux,html)](https://skillicons.dev)
 
 <br/>
 
